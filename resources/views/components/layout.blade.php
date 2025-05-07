@@ -20,7 +20,7 @@
 
     <header>
 
-        <h1>Prática Laravel</h1>
+        <h1>Prática-Laravel</h1>
 
         @include ('components.menu') {{-- vai importar o menu que esta na mesma pasta desse arquivo --}}
 
